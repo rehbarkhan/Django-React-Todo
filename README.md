@@ -7,8 +7,9 @@ React Todo App powered by Django Auth and REST API
 
 # How to run
 ### Makesure your have unix / linux based OS
-`
+- `
 chmod +x ./run.sh
-./run.sh
 `
+
+- `./run.sh`
 ### run.sh will build and start the server.
